@@ -1,0 +1,1292 @@
+ body{
+padding:0;
+margin:0;
+ }
+ 
+.LogoHome{
+margin-left:30px;
+}
+.Div-Monto {
+background-color:#fafafa;	
+width:250px;
+height:140px;
+margin-left:70%;
+margin-bottom:-9px;
+margin-top:-70px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+}
+
+.Div-Banner-Ganadores{
+background-color:#fafafa;	
+width:1040px;
+height:90px;
+margin-left:150px;
+margin-bottom:40px;
+margin-top:-10px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+
+}
+.Div-Banner-Ganadores2{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+margin-bottom:40px;
+padding-bottom:50px;
+border-radius: 8px;
+}
+
+.Info1-Banner-Ganadores{
+font-size: 20px;
+margin-left:40px;
+padding-top:15px;
+color: #296ab4;
+font-weight: bold;
+display:inline-block;
+}
+
+.Info2-Banner-Ganadores{
+font-size: 20px;
+margin-left: 150px;
+margin-top:-30px;
+color: #296ab4;
+font-weight: bold;
+margin-bottom:25px;
+}
+
+.Info3-Banner-Ganadores{
+font-size: 20px;
+margin-left: 100px;
+margin-top:-30px;
+color: #296ab4;
+font-weight: bold;
+margin-bottom:25px;
+}
+
+
+.Num-Banner-Ganadores{
+font-size: 20px;
+font-weight: normal;
+display: inline;
+}
+
+.Num-Banner-Ganadores-Mes{
+font-size: 20px;
+font-weight: normal;
+display: inline-black;
+}
+
+/*Div Premio Nacional Tarde*/
+.Div-Premio-Nacional-Tarde{
+background-color:#fafafa;	
+width:300px;
+height:390px;
+margin-left:150px;
+margin-bottom:9px;
+margin-top:10px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;	
+}
+
+.Logo-Premio-Nac-Tarde{
+padding-left:10px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+
+}
+
+.Numero-Premio-Nac-Tarde{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing: 6px;
+}
+
+.Premio-Footer-Nac-Tarde{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;
+}
+
+/*Fin Banner Nacional Tarde*/
+
+/*Div Premio Nacional Noche*/
+.Div-Premio-Nacional-Noche{
+background-color:#fafafa;	
+width:300px;
+height:390px;
+margin-left:530px;
+margin-bottom:9px;
+margin-top:-405px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+}
+
+.Logo-Premio-Nac-Noche{
+padding-left:10px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Numero-Premio-Nac-Noche{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing: 6px;
+}
+
+.Premio-Footer-Nac-Noche{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;
+}
+
+/*Fin Div Premio Nacional Noche*/
+
+/*Div Premio leidsa*/
+.Div-Premio-Leidsa{
+background-color:#fafafa;	
+width:300px;
+height:390px;
+margin-left:893px;
+margin-bottom:9px;
+margin-top:-405px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+}
+
+.Logo-Premio-leidsa{
+padding-left:10px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Numero-Premio-Leidsa{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing: 6px;
+}
+
+.Premio-Footer-Leidsa{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;	
+margin-top:-20px;
+}
+/*Fin banner leidsa*/
+
+/*Div Premio la primera*/
+.Div-Premio-La-Primera{
+background-color:#fafafa;	
+width:300px;
+height:390px;
+margin-left:150px;
+margin-bottom:9px;
+margin-top:30px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;	
+}
+
+.Logo-Premio-La-Primera{
+padding-left:10px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Premio-Footer-La-Primera{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;	
+}
+.Numero-Premio-La-Primera{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing:6px;
+}
+
+/* Fin Div Premio La primera*/
+
+
+/*Div Premio NY Tarde*/
+.Div-Premio-NY-Tarde{
+background-color:#fafafa;	
+width:300px;
+height:415px;
+margin-left:530px;
+margin-bottom:9px;
+margin-top:-430px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+}
+
+.Logo-Premio-NY-Tarde{
+padding-left:10px;	
+margin-top:20px;
+margin-left:80px;
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Numero-Premio-NY-Tarde{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing:6px;
+}
+
+.Premio-Footer-NY-Tarde{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;
+}
+/*Fin div NY Tarde*/
+
+/*Div Premio NY Noche*/
+.Div-Premio-NY-Noche{
+background-color:#fafafa;	
+width:300px;
+height:415px;
+margin-left:893px;
+margin-bottom:9px;
+margin-top:-430px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+}
+
+.Logo-Premio-NY-Noche{
+padding-left:10px;	
+margin-top:15px;
+margin-left:80px;
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Numero-Premio-NY-Noche{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing:6px;
+}
+
+.Premio-Footer-NY-Noche{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;
+}
+/*Fin div NY Noche*/
+
+
+/*Div La suerte*/
+.Div-Premio-La-Suerte{
+background-color:#fafafa;	
+width:300px;
+height:390px;
+margin-left:530px;
+margin-bottom:9px;
+margin-top:-405px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;	
+}
+
+.Premio-La-Suerte{
+padding-left:10px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Numero-Premio-La-Suerte{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing:6px;
+}
+
+.Premio-Footer-La-Suerte{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;
+}
+
+/* Fin Div La suerte*/
+
+/*Div Premio Loteka*/
+.Div-Premio-Loteka{
+background-color:#fafafa;	
+width:300px;
+height:390px;
+margin-left:893px;
+margin-bottom:9px;
+margin-top:-405px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;
+}
+
+.Logo-Premio-Loteka{
+padding-left:5px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Numero-Premio-Loteka{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing: 6px;
+}
+.Premio-Footer-Loteka{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;	
+margin-top:-20px;
+}
+
+/*Fin Div Premio Loteka*/
+
+/*Div Premio La Real*/
+.Div-Premio-La-Real{
+background-color:#fafafa;	
+width:300px;
+height:415px;
+margin-left:150px;
+margin-bottom:9px;
+margin-top:30px;
+border: 3px solid #d2cfcf;
+position: static;
+border-radius: 8px;	
+}
+
+.Logo-Premio-La-Real{
+padding-left:10px;	
+margin-top:15px;		
+}
+
+.Titulo-Premio{
+font-size: 20px;
+font-weight: bold;
+color:#296ab4;	
+margin-left:50px;
+}
+
+.Premio-Footer-La-Real{
+font-size: 18px;
+font-weight: bold;
+margin-left:15px;
+margin-top:-20px;	
+}
+.Numero-Premio-La-Real{
+font-size: 40px;
+font-weight: normal;
+margin-top:5px;
+margin-left:60px;
+color:#e91306;
+letter-spacing:6px;
+}
+
+
+/* Fin Div Premio Real*/
+
+/*Btn jugar resultados*/
+.Btn-Jugar-Banner{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 14px;
+height: 20px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 90px;	
+text-align:center;
+}
+/*Fin Btn jugar resultados*/
+
+.TituloCuenta{
+font-size:25px;	
+padding-left:150px;	
+font-weight:bold;
+color:#e91306;
+display:inline-block;
+}
+
+#InfoMonto1{
+margin-top:6px;
+margin-left:5px;
+font-size:14px;
+font-weight:bold;
+}
+
+#InfoMonto2{
+margin-top:-5px;
+margin-left:5px;
+font-size:14px;
+font-weight:bold;
+}
+
+.GanadoresHoy{
+margin-left:600px;
+margin-top:-10px;
+position:absolute;
+font-size:18px;
+font-weight:bold;
+color:#34a853;
+}
+
+.SaludoGanadores{
+margin-left:600px;
+margin-top:-50px;
+position:absolute;
+font-size:15px;
+font-weight:bold;
+}	
+
+#LineaMonto{
+border-bottom:solid 1px grey;
+width:92%;
+margin: auto;
+margin-top:-5px;
+margin-bottom:8px;
+}
+
+#ListaStyleNone, a{
+ list-style:none;
+ text-decoration: none;
+ color: #ed1d25;
+ list-style:none;
+ text-decoration: none;
+ display: block;
+ text-align: left;
+ font-weight:bold;
+ font-size:14px;
+ margin-left:-16px;
+ margin-top:3px;
+ }
+
+#ListaStyleNone :hover{
+text-decoration: underline;
+}
+
+.BtnJugar{	
+background-color:#ed1d25;
+color:white;
+border-radius: 28px;
+border: 1px solid #C6C6C6;
+padding: 5px 15px;
+margin: 7px;
+font-weight: bold;
+font-size: 12px;
+height: 30px;
+width: 100px;
+position: relative;
+cursor: pointer;
+}
+
+.Btn_Ir_Registrarse{
+Color: #FFF;
+background: #296ab4;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+width: 160px;
+position: relative;
+cursor: pointer;
+margin-left: 150px;	
+text-align:center;	
+margin-bottom:20px;	
+}
+ 
+
+.MenuClienteJugar ul {
+list-style-type: none;
+overflow: hidden;
+background-color: #296ab4;
+padding-left:-10px;
+margin-top:10px;
+}
+
+.MenuClienteJugar li {
+float: left;
+}
+
+.MenuClienteJugar li a {
+display: inline-block;
+color: white;
+text-align: center;
+padding-top:15px;
+padding-bottom:15px;
+text-decoration: none;
+margin-left:115px;
+font-weight: bold;
+}
+
+.MenuClienteJugar a:hover{
+ color:#fecc45;
+ }
+ 
+
+.Div-Loteria{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+margin-bottom:100px;
+padding-bottom:100px;
+}
+ 
+.Div-cuenta-nueva{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+margin-bottom:100px;
+padding-bottom:50px;
+} 
+
+
+.ParrafoTituloCuenta-nueva{
+font-size:25px;	
+padding-left:50px;	
+color:#296ab4;
+font-weight:bold;		
+}
+
+.BtnJugarNacional{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 60px;	
+text-align:center;
+}
+
+.BtnJugarNacional:hover{
+color:#fecc45;
+}
+
+.BtnJugarLeidsa{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 400px;	
+text-align:center;
+}
+
+.BtnJugarLeidsa:hover{
+color:#fecc45;
+}
+
+.BtnJugarPrimera{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 740px;	
+text-align:center;
+}
+
+.BtnJugarPrimera:hover{
+color:#fecc45;
+}
+
+
+.BtnJugarSuerteDo{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 60px;	
+text-align:center;
+}
+
+.BtnJugarSuerteDo:hover{
+color:#fecc45;
+}
+
+
+.BtnJugarSuperPale{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 400px;	
+text-align:center;
+}
+
+.BtnJugarSuperPale:hover{
+color:#fecc45;
+}
+
+
+.BtnJugarReal{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 740px;	
+text-align:center;
+}
+
+.BtnJugarReal:hover{
+color:#fecc45;
+}
+
+.BtnJugarNewYorkTarde{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 60px;	
+text-align:center;
+}
+
+.BtnJugarNewYorkTarde:hover{
+color:#fecc45;
+}
+
+.BtnJugarNewYorkNoche{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 400px;	
+text-align:center;
+}
+
+.BtnJugarNewYorkNoche:hover{
+color:#fecc45;
+}
+
+.BtnJugarLoteka{
+Color: #FFF;
+background: #34a853;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+Text-transform: uppercase;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 400px;	
+text-align:center;
+}
+
+.BtnJugarLoteka:hover{
+color:#fecc45;
+}
+
+.JugarLogoNacional{
+margin-left:10px;
+margin-top:10px;
+}
+
+.JugarLogoLeidsa{
+margin-left:30px;	
+}
+
+.JugarLogoPrimera{
+padding-left:120px;	
+}
+
+.JugarLogoSuerte{
+padding-left:40px;	
+margin-top:100px;
+}
+
+
+.JugarLogoLoteka{
+margin-left:20px;
+margin-top:100px;
+}
+
+.JugarLogoReal{
+margin-left:90px;
+margin-top:100px;
+}
+
+.JugarLogoNewYork{
+padding-left:70px;	
+margin-top:100px;
+}
+
+.JugarLogoSuperPale{
+padding-left:120px;	
+margin-top:100px;
+}
+
+.JugarLogoLoteka{
+padding-left:50px;	
+margin-top:100px;
+margin-bottom:6px;
+}
+
+.Nombre-nueva-cuenta{
+font-size:20px;	
+margin-left:50px;
+}
+
+.Apellido-nueva-cuenta{
+font-size:20px;	
+margin-left:100px;
+}
+
+.Cedula-nueva-cuenta{
+font-size:20px;	
+margin-left:50px;
+}
+
+.Email-nueva-cuenta{
+font-size:20px;	
+margin-left:100px;
+}
+
+.Telefono-nueva-cuenta{
+font-size:20px;	
+margin-left:50px;
+}
+
+.Celular-nueva-cuenta{
+font-size:20px;	
+margin-left:100px;
+}
+
+.Pais-nueva-cuenta{
+font-size:20px;	
+margin-left:50px;
+}
+
+.Clave-nueva-cuenta{
+font-size:20px;	
+margin-left:100px;
+}
+
+/*Formulario cambiar clave*/
+.Div-CambiarClave {
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+margin-bottom:100px;
+padding-bottom:40px;
+}
+
+.TituloCuenta-Form-Clave{
+font-size:20px;	
+padding-left:50px;	
+color:#e91306;
+font-weight:bold;	
+}
+.MiDatosCambiarClave{	
+font-size:20px;	
+margin-left:50px;		
+}
+
+.MiDatosCambiarClave2{	
+font-size:20px;	
+margin-left:30px;		
+}
+
+.TxtCambiarClave{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 30px
+}
+
+.TxtCambiarClave2{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 240px;
+height: 20px;
+margin-left: 20px;
+}
+
+.btnVolver{
+color: #FFF;
+background: #296ab4;
+border-radius: 4px;
+border: 1px solid #C6C6C6;
+padding: 3px 5px;
+padding-top:10px;
+font-weight: bold;
+font-size: 17px;
+height: 30px;
+width: 120px;
+position: absolute;
+cursor: pointer;
+margin-left: 50px;	
+text-align:center;
+display:inline;
+margin-top:50px;
+}
+
+/*Fin cambiar clave*/
+
+.Txt-nombre-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 30px
+}
+
+.Txt-apellido-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 40px
+}
+
+.Txt-cedula-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 40px
+}
+
+.Txt-email-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 60px;
+}
+
+.Txt-telefono-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 25px;
+
+}
+
+.Txt-celular-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 50px;
+}
+
+.Txt-pais-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 265px;
+height: 30px;
+margin-left:60px;
+}
+
+.Txt-clave-nueva-cuenta{
+border-radius: 2px;
+border: 1px solid #C6C6C6;
+padding: 5px;
+width: 250px;
+height: 20px;
+margin-left: 60px;
+}
+
+.btnActualizar{
+margin-left: 50px;
+border-radius: 6px;
+border: 1px solid #34a853;
+background-color: #34a853;
+cursor: pointer;
+width: 20%;
+height: 40px;
+color: #fff;
+font-size: 15px;
+font-weight: bold;
+margin-top:50px;
+}
+
+.btnCambiarContraseña{
+margin-left: 80px;
+border-radius: 6px;
+border: 1px solid #CC0000;
+background-color: #CC0000;
+cursor: pointer;
+width: 20%;
+height: 40px;
+color: #fff;
+font-size: 15px;
+font-weight: bold;
+}
+
+/*Paso como Jugar*/
+.TextoJugarPaso1{
+font-size:20px;
+margin-left:150px;
+color:#296ab4;
+font-weight: bold;
+}
+
+.TextoJugarPaso2{
+font-size:20px;
+margin-left:150px;
+color:#296ab4;
+font-weight: bold;
+margin-top:10px;
+}
+
+.TextoJugarPaso3{
+font-size:20px;
+margin-left:150px;
+color:#296ab4;
+font-weight: bold;
+margin-top:10px;
+}
+
+.TextoJugarPaso4{
+font-size:20px;
+margin-left:150px;
+color:#296ab4;
+font-weight: bold;
+margin-top:10px;
+}
+/*Fin Paso como Jugar*/
+
+/*Div de paso a jugar*/
+.Div-JugarPaso1{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+padding-left:10px;
+border-radius: 10px;
+}
+
+.Div-JugarPaso2{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+padding-left:10px;
+border-radius: 10px;
+}
+
+.Div-JugarPaso3{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+padding-left:10px;
+border-radius: 10px;
+}
+
+.Div-JugarPaso4{
+background-color:#fafafa;	
+border: 3px solid #d2cfcf;
+margin-left:150px;
+margin-right:150px;
+margin-bottom:150px;
+padding-left:10px;
+border-radius: 10px;
+}
+/* Fin Div de paso a jugar*/
+
+.Texto-Div-Paso{
+font-size:18px;	
+}
+
+.LoteriaJugando{
+font-size:25px;	
+padding-left:150px;	
+color:#e91306;
+font-weight:bold;
+display:inline;
+}
+
+.TextoLoteria{
+font-size:25px;	
+padding-left:10px;	
+font-weight:bold;
+display:inline;
+}
+
+.Select-Tanda-Loteria{
+font-size:20px;	
+margin-left:150px;	
+font-weight:normal;
+border-radius: 8px;
+}
+
+.Select--tickets-jugadas{
+font-size:20px;	
+margin-left:770px;	
+font-weight:normal;
+border-radius: 8px;
+display:inline;
+}
+
+/*Mi cuenta*/
+.Nombre-micuenta{
+font-size:20px;	
+margin-left:50px;
+margin-top:0px;
+font-weight:bold;
+display:inline-block;
+}
+
+.Apellido-micuenta{
+font-size:20px;	
+margin-left:300px;
+font-weight:bold;
+display:inline-block;
+}
+
+.Cedula-micuenta{
+font-size:20px;	
+margin-left:50px;
+font-weight:bold;
+display:inline-block;
+}
+
+.Email-micuenta{
+font-size:20px;	
+margin-left:320px;
+font-weight:bold;
+display:inline-block;
+}
+
+.Telefono-micuenta{
+font-size:20px;	
+margin-left:50px;
+font-weight:bold;
+display:inline-block;
+}
+
+.Celular-micuenta{
+font-size:20px;	
+margin-left:50px;
+font-weight:bold;
+
+}
+
+.Pais-micuenta{
+font-size:20px;	
+margin-left:250px;
+font-weight:bold;
+display:inline-block;
+}
+
+.Txt-nombre-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+
+.Txt-apellido-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+
+.Txt-cedula-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+
+.Txt-email-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+
+.Txt-telefono-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+
+.Txt-celular-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+
+.Txt-pais-micuenta{
+font-size:20px;		
+margin-left:10px;
+display:inline-block;
+}
+/*Fin mi cuenta*/
