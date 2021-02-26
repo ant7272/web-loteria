@@ -1,0 +1,28 @@
+Funciones destacada
+
+Funciones cliente:
+-Jugada por adelantada hasta 5 dia.
+-Recarga de balance.
+-Poder transferir balance a tercero(A travez de No.Cuenta)
+-Pago a travez de transferia (banco, paypal,cajero automatico, etc).
+-Guarda jugada para futura posible jugada.
+-Mostrar balance disponible, monto ganado.
+-Ver lista de ticekts jugado.
+-Opcion de convertir en balance disponible (Para jugar).
+-Mostrar una lista de ticket ganadores y lo que se gano.
+-Al imprimir debe aver un boton de varia loteria o solo una.
+-Jugada Activa
+
+Funciones Pagina Administrador:
+
+
+Pagina inicio:
+-Mostrar cuanta persona resultaron ganadores.
+-Mostrar los premios mas reciente.
+-
+
+
+Idea adicional:
+-Sucripcion de 20 dolar, por la cual ganara un 10% mas.
+-Jugada 24 hora del dia.
+-Sistema de referido

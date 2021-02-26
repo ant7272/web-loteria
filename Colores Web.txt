@@ -1,0 +1,4 @@
+Rojo     #ed1d25
+Azul     #296ab4
+Amarillo #fecc45
+Verdes   #34a853

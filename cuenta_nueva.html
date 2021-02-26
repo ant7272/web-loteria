@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es-ES">
+<head>
+	<title>Nueva cuenta</title>
+	<meta charset="utf-8">
+	<meta name="description" content="Lotería Dominicana en linea" />
+	<meta name="keywords" content="Lotería,Nacional,Lotería Real,New York,Loteka,La Primera,Pale,Quiniela,Tripleta,La suerte dominicana" />
+	<link rel="stylesheet" type="text/css"  href="style/styles.css" />
+</head>
+
+<body>
+
+<div class="LogoHome">
+<img src="logo/logo-temporal.png" >
+</div>
+<p class="GanadoresHoy">Ganadores de hoy:50</p>
+<p class="SaludoGanadores">Hola:Anthony</p>
+
+ <div class="Div-Monto">
+ <p id="InfoMonto1">Disponible para jugar: RD$ 1,100</p>
+ <p id="InfoMonto2">Monto ganado: RD$ 3,000</p>
+ 
+ <div id="LineaMonto">
+</div> 
+ 
+ <ul id="ListaStyleNone">
+  <li id="MiCuenta"><a  href="mi-cuenta.html">Mi cuenta</a></li>
+<li><a href="agregar-balance.html">Agregar o transferir balance</a></li>
+  <li><a href="mi-tickets-ganadores.html">Mis tickets ganadores</a></li>
+  <li><a href="mi-tickets-favoritos.html">Mis tickets favoritos</a></li>
+</ul>
+</div>
+
+ <nav class="MenuClienteJugar">
+     <ul> 
+    <li><a href="index.html">Resultados</a></li>
+    <li><a href="jugada.html">Jugar ahora</a></li>
+    <li><a href="mi-cuenta.html">Mi cuenta</a></li>
+    <li><a href="mi-tickets.html">Mi tickets</a></li>
+    <li><a href="como-jugar.html">Como jugar</a></li>
+    <li><a href="contactos.html">Contactos</a></li>
+	</ul>
+ </nav>
+ 
+<p class="TituloCuenta">Crear una nueva cuenta</p>
+
+<div class="Div-cuenta-nueva">
+<p class="ParrafoTituloCuenta-nueva">Mi datos personales</p>
+
+<label class="Nombre-nueva-cuenta">Nombre</label>
+<input class="Txt-nombre-nueva-cuenta"	 type="text"  name=nombre" maxlength="50" >
+
+<label class="Apellido-nueva-cuenta">Apellido</label>
+<input class="Txt-apellido-nueva-cuenta"	type="text"  name=apellido"  required maxlength="50">
+<br />
+<br />
+<label class="Cedula-nueva-cuenta">Cedula</label>
+<input class="Txt-cedula-nueva-cuenta"	 type="text"  name=cedula"  required maxlength="11">
+
+<label class="Email-nueva-cuenta">Email</label>
+<input class="Txt-email-nueva-cuenta" type="email"  name=email" required maxlength="100">
+<br />
+<br />
+<label class="Telefono-nueva-cuenta">Telefono</label>
+<input class="Txt-telefono-nueva-cuenta" type="tel"  name=Telefono" required  maxlength="15">
+
+<label class="Celular-nueva-cuenta">Celular</label>
+<input class="Txt-celular-nueva-cuenta"  type="tel"  name=celular" required maxlength="15">
+<br />
+<br />
+<label class="Pais-nueva-cuenta">Pais</label>
+<select class="Txt-pais-nueva-cuenta" name="Pais">
+  <option value="EEUU">Estados Unidos</option>
+  <option value="RD" selected>República Dominicana</option>
+  <option value="PR">Puerto Rico</option>
+  <option value="Otro">Otro</option>
+</select>
+<label class="Clave-nueva-cuenta">Clave</label>
+<input class="Txt-clave-nueva-cuenta" type="password"  name=clave" required maxlength="20">
+
+<br />
+<br />
+<input type="submit" class="btnActualizar" value="Crear cuenta">
+
+</div>
+
+</body>
